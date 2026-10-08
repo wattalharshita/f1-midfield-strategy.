@@ -1,0 +1,20 @@
+{
+  "car_starts": 3441,
+  "races": 173,
+  "seasons": "2018-2025",
+  "midfield_car_starts_train": 1427,
+  "v1_r_replicated": 0.599,
+  "partial_spearman_within_car": 0.398,
+  "lever_A_pts_per_car_race": 0.461,
+  "lever_A_pts_per_season": 15.8,
+  "lever_A_places_per_season": 0.33,
+  "lever_B_pts_per_car_race": 0.091,
+  "lever_B_pts_per_season": 3.1,
+  "lever_B_places_per_season": 0.06,
+  "ratio_A_over_B": 5.1,
+  "pit_seconds_equal_to_one_grid_place": 2.54,
+  "usd_A_at_8p5M": 2.83,
+  "usd_B_at_8p5M": 0.47,
+  "best_2025_model": "Model: grid only (midfield-trained)",
+  "best_2025_brier": 0.1838
+}
